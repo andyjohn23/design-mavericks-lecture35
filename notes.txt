@@ -3,3 +3,4 @@ Initialize git - git init
 add content - git add .
 communication - git commit -m "added image on image.html file"
 push work - git push -u origin main
+push work - git push -u origin main
